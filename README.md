@@ -5,7 +5,7 @@
 Networking is one of the key elements in staying connected with people and their work lives. As most of us worked online during covid, we had to overcome the problem of communication channels breaking down. With Community-Connect, you can bridge that gap between people in a work community. </br>
 The Community Connect platform allows you to announce your achievements, share resources within your community, and voice your opinion. Your posts can get support, and the most popular ones are listed in the community feeds of the community members. This platform was inspired by the setup of LinkedIn and aims to connect people and let them express their opinions.
 
-<img width="357" alt="full_logo" src="https://user-images.githubusercontent.com/72935128/145101918-7ee4f919-b7e3-4fa4-a7e3-1303e3b352f9.png">
+<img width="500" alt="full_logo" src="https://user-images.githubusercontent.com/72935128/145101918-7ee4f919-b7e3-4fa4-a7e3-1303e3b352f9.png">
 
 ## Software requirements:
 
