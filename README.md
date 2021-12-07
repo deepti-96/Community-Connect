@@ -1,4 +1,4 @@
-# Community-Connect
+# Community Connect
 
 ## Introduction:
 
