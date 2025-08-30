@@ -20,7 +20,7 @@ npm start
 ```
 
 Runs the application in development mode.</br>
-To view it in the browser, go to http://localhost:3000 </br>
+To view it in the browser, go to https://community-connect-69ba8.web.app/ </br>
 You will need to reload the page if you make changes. If any errors occur, they will also be displayed in the console.</br>
 
 ![B62F0672-F718-491B-A3AD-D2FDA2231601](https://user-images.githubusercontent.com/72935128/145102244-682e0bcf-e62a-428f-b920-e5b6a46c1f0c.jpeg)
